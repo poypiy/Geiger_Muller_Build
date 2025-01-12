@@ -1,6 +1,7 @@
 This repo contains all the information need to build a geiger muller counter and example ltspice files, kicad schematics, and the component values.
 contains material that i do not own so credit to them ig lol 
-⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠃⠄⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠈⠉⠉⠉⠉⠉⠉⠉⢿⣿⣇⠰⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀![geigerschematicprint](https://github.com/user-attachments/assets/33bd7c2a-4633-450c-a26a-d8500414697a)
+   ⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠃⠄⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠈⠉⠉⠉⠉⠉⠉⠉⢿⣿⣇⠰⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡘⢿⣿⣳⣌⣝⠓⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣿⣿⣿⣛⣛⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢘⣿⣿⡝⢿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⠀⢻⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -33,4 +34,4 @@ contains material that i do not own so credit to them ig lol
 ⠀⠀⠀⠀⠀⢀⣠⠶⠚⠉⠀⠀⢠⡟⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⡀⠀⣠⣾⣿⠒⠚⠋⠀⠀⠀⢀⡼⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⢸⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⣴⣶⢲⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢉⣿⡿⠋⠁⠀⠀⠀⠀⢀⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠉⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⠀⠉⠳⣤⣄⠀⠀⠘⢿⡏⠀⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⡿⠋⠀⠀⠀⠀⢀⣄⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-![geigerschematicprint](https://github.com/user-attachments/assets/33bd7c2a-4633-450c-a26a-d8500414697a)
+
