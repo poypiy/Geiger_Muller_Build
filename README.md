@@ -33,3 +33,4 @@ contains material that i do not own so credit to them ig lol
 ⠀⠀⠀⠀⠀⢀⣠⠶⠚⠉⠀⠀⢠⡟⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⡀⠀⣠⣾⣿⠒⠚⠋⠀⠀⠀⢀⡼⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⢸⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⣴⣶⢲⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢉⣿⡿⠋⠁⠀⠀⠀⠀⢀⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠉⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⡾⠀⠀⠀⠀⠉⠳⣤⣄⠀⠀⠘⢿⡏⠀⠙⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⡿⠋⠀⠀⠀⠀⢀⣄⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+![geigerschematicprint](https://github.com/user-attachments/assets/33bd7c2a-4633-450c-a26a-d8500414697a)
